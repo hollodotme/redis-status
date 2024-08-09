@@ -19,7 +19,7 @@
         "ext-redis": "*",
         "ext-intl": "*",
         "icehawk/icehawk": "~2.2.0",
-        "twig/twig": "~2.0"
+        "twig/twig": "~3.11"
     },
     "require-dev": {
         "ext-xdebug": ">=2.9.0",
